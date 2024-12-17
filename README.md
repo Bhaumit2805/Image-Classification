@@ -18,7 +18,7 @@ Code and results are kept in the main notebook, cnn_dog_cat_classification.ipynb
    
 83% is the test accuracy. The outcomes show how well the model performs in differentiating between dogs and cats. Both classes showed a balanced level of accuracy, with few misclassifications.
 
-The Medium post https://medium.com/@shyamsundhar432/building-a-cnn-to-classify-cats-and-dogs-0c1ce0c3048c contains the code's primary conclusions.
+The Medium post https://medium.com/@bhaumitmaniya/building-cnn-model-for-image-classification-for-dogs-and-cats-2039a626f01e contains the code's primary conclusions.
 
 5. Authors, Acknowledgments, and Licencing The goal of this endeavor was education.
    
