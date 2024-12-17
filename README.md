@@ -22,4 +22,4 @@ The Medium post https://medium.com/@bhaumitmaniya/building-cnn-model-for-image-c
 
 5. Authors, Acknowledgments, and Licencing The goal of this endeavor was education.
    
-Dataset: For this experiment, the Kaggle Cats and Dogs dataset was utilized. https://drive.google.com/drive/folders/1Q22dRAzvg1Jp19KfStf5LM-JNIS9gaXH?usp=sharing is where the dataset is kept. Shyam Sundhar Kumaravel wrote this. Recognition: We would also like to thank TensorFlow/Keras for the deep learning framework used in this project and Kaggle for supplying the dataset. Please feel free to use or alter this project as long as you give due credit.
+Dataset: For this experiment, the Kaggle Cats and Dogs dataset was utilized. https://drive.google.com/drive/folders/1Z5Tuxssg2TfNaxW44x2WU7SuKAzJduSa?usp=sharing is where the dataset is kept. Shyam Sundhar Kumaravel wrote this. Recognition: We would also like to thank TensorFlow/Keras for the deep learning framework used in this project and Kaggle for supplying the dataset. Please feel free to use or alter this project as long as you give due credit.
